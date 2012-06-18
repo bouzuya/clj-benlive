@@ -1,15 +1,13 @@
 # benlive
 
-I'm an app. Or maybe I'm a library? I haven't decided yet. 
-
-The choice is up to you!
+bouzuya's enlive example project.
 
 ## Usage
 
-FIXME
+[http://benlive.heroku.com/](http://benlive.heroku.com/)
 
 ## License
 
-Copyright © 2012 FIXME
+Copyright © 2012 bouzuya
 
 Distributed under the Eclipse Public License, the same as Clojure.
